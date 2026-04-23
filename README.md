@@ -60,7 +60,6 @@ Tăng cường bảo mật
 
 Google Play Services
 Google Sign-In
-Sentry
 
 Each service operates under its own privacy policy.
 
@@ -68,7 +67,6 @@ Each service operates under its own privacy policy.
 
 Google Play Services
 Google Sign-In
-Sentry
 
 Các dịch vụ này có chính sách bảo mật riêng.
 
@@ -82,11 +80,11 @@ Các dịch vụ này có chính sách bảo mật riêng.
 
 (EN) Users may request account deletion and removal of associated personal data by visiting:
 
-👉 [link delete account page của bạn]
+https://healse-api.fly.dev/delete-acount
 
 (VI) Người dùng có thể yêu cầu xóa tài khoản và dữ liệu liên quan tại:
 
-👉 [link delete account page]
+https://healse-api.fly.dev/delete-acount
 
 7. Data Protection
 
