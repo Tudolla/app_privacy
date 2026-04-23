@@ -1,37 +1,101 @@
-# Privacy Policy / Chính sách Bảo mật
+Privacy Policy / Chính sách bảo mật
 
-**Last Updated / Cập nhật lần cuối:** 30/03/2026
+Last Updated / Cập nhật lần cuối: 30/03/2026
 
-## 1. Introduction / Giới thiệu
-(EN) This Privacy Policy explains how our Health News Application collects, uses, and protects your information.
-(VI) Chính sách bảo mật này giải thích cách ứng dụng Tin tức Sức khỏe của chúng tôi thu thập, sử dụng và bảo vệ thông tin của bạn.
+1. Introduction / Giới thiệu
 
-## 2. Information We Collect / Thông tin chúng tôi thu thập
+(EN) This Privacy Policy explains how EDO Health: Sức khỏe & Sơ cứu collects, uses, and protects your information when using the application.
 
-### a. Google Account Information / Thông tin tài khoản Google
-(EN) When you sign in using Google, we collect your name, email address, and profile picture to create your account and personalize your experience.
-(VI) Khi bạn đăng nhập bằng Google, chúng tôi thu thập tên, địa chỉ email và ảnh đại diện để tạo tài khoản và cá nhân hóa trải nghiệm của bạn.
+(VI) Chính sách bảo mật này giải thích cách ứng dụng EDO Health: Sức khỏe & Sơ cứu thu thập, sử dụng và bảo vệ thông tin của bạn khi sử dụng ứng dụng.
 
-### b. Microphone Access / Quyền truy cập Microphone
-(EN) Our app requests microphone access strictly for voice search or voice-to-text features within the health news platform. We **do not** record or store your audio data on our servers.
-(VI) Ứng dụng yêu cầu quyền truy cập microphone chỉ phục vụ cho tính năng tìm kiếm bằng giọng nói hoặc chuyển giọng nói thành văn bản. Chúng tôi **không** ghi âm hoặc lưu trữ dữ liệu âm thanh của bạn trên máy chủ.
+2. Information We Collect / Thông tin chúng tôi thu thập
+a. Google Account Information
 
-### c. Usage Data / Dữ liệu sử dụng
-(EN) We use **Sentry** to collect crash reports and performance data to improve app stability.
-(VI) Chúng tôi sử dụng **Sentry** để thu thập báo cáo lỗi và dữ liệu hiệu suất nhằm cải thiện độ ổn định của ứng dụng.
+(EN) When you sign in using Google, we collect your name, email address, and profile picture to create and manage your account.
 
-## 3. How We Use Your Information / Cách chúng tôi sử dụng thông tin
-(EN) To provide health news updates, maintain your profile, and enhance app security.
-(VI) Để cung cấp các cập nhật tin tức sức khỏe, duy trì hồ sơ cá nhân và tăng cường bảo mật ứng dụng.
+(VI) Khi bạn đăng nhập bằng Google, chúng tôi thu thập tên, email và ảnh đại diện để tạo và quản lý tài khoản.
 
-## 4. Data Protection / Bảo vệ dữ liệu
-(EN) We implement industry-standard security measures to protect your data. Your Google credentials are processed securely via Google OAuth.
-(VI) Chúng tôi áp dụng các biện pháp bảo mật tiêu chuẩn để bảo vệ dữ liệu. Thông tin đăng nhập Google được xử lý bảo mật qua Google OAuth.
+b. Microphone Access
 
-## 5. Third-Party Services / Dịch vụ bên thứ ba
-(EN) We may use third-party services like Google Play Services and Sentry. Please refer to their respective privacy policies.
-(VI) Chúng tôi có thể sử dụng các dịch vụ bên thứ ba như Google Play Services và Sentry. Vui lòng tham khảo chính sách bảo mật riêng của họ.
+(EN) The microphone permission is used only for voice search or voice-to-text functionality. Audio data is processed locally and is not stored on our servers.
 
-## 6. Contact Us / Liên hệ
-(EN) If you have any questions, please contact us at: [Email của bạn]
-(VI) Nếu bạn có bất kỳ câu hỏi nào, vui lòng liên hệ tại: [Email của bạn]
+(VI) Quyền truy cập microphone chỉ phục vụ cho tính năng tìm kiếm bằng giọng nói hoặc chuyển giọng nói thành văn bản. Dữ liệu âm thanh không được lưu trữ trên máy chủ.
+
+c. Usage Data (Crash Reports)
+
+(EN) We use Sentry to collect crash reports and performance diagnostics to improve application stability.
+
+(VI) Chúng tôi sử dụng Sentry để thu thập báo cáo lỗi và dữ liệu hiệu suất nhằm cải thiện độ ổn định của ứng dụng.
+
+d. Device Information
+
+(EN) We may collect limited device-related information such as device type and OS version for improving app performance.
+
+(VI) Chúng tôi có thể thu thập thông tin thiết bị như loại thiết bị và phiên bản hệ điều hành nhằm cải thiện hiệu năng ứng dụng.
+
+e. Server Storage
+
+(EN) Some user-related data may be securely stored on our servers to support application functionality such as saving preferences and interactions.
+
+(VI) Một số dữ liệu liên quan đến người dùng có thể được lưu trữ an toàn trên máy chủ nhằm hỗ trợ các chức năng của ứng dụng như lưu tùy chọn và tương tác.
+
+3. How We Use Your Information
+
+(EN) We use collected data to:
+
+Provide application functionality
+Maintain user accounts
+Improve performance and stability
+Enhance security
+
+(VI) Chúng tôi sử dụng dữ liệu thu thập để:
+
+Cung cấp chức năng ứng dụng
+Quản lý tài khoản người dùng
+Cải thiện hiệu năng
+Tăng cường bảo mật
+4. Third-Party Services
+
+(EN) The application may use trusted third-party services including:
+
+Google Play Services
+Google Sign-In
+Sentry
+
+Each service operates under its own privacy policy.
+
+(VI) Ứng dụng có thể sử dụng các dịch vụ bên thứ ba bao gồm:
+
+Google Play Services
+Google Sign-In
+Sentry
+
+Các dịch vụ này có chính sách bảo mật riêng.
+
+5. Data Retention
+
+(EN) We retain personal data only as long as necessary to provide application services and improve user experience.
+
+(VI) Chúng tôi chỉ lưu trữ dữ liệu cá nhân trong thời gian cần thiết để cung cấp dịch vụ và cải thiện trải nghiệm người dùng.
+
+6. Account Deletion / Xóa tài khoản
+
+(EN) Users may request account deletion and removal of associated personal data by visiting:
+
+👉 [link delete account page của bạn]
+
+(VI) Người dùng có thể yêu cầu xóa tài khoản và dữ liệu liên quan tại:
+
+👉 [link delete account page]
+
+7. Data Protection
+
+(EN) We implement industry-standard safeguards to protect user information. Authentication is securely handled via Google OAuth.
+
+(VI) Chúng tôi áp dụng các biện pháp bảo mật tiêu chuẩn để bảo vệ thông tin người dùng. Xác thực được thực hiện an toàn qua Google OAuth.
+
+8. Contact Us
+
+If you have any questions:
+
+📧 eduino.info@gmail.com
